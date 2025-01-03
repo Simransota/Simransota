@@ -117,5 +117,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simransota&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
+### Snake eating Contributions 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simransota/Simransota/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simransota/Simransota/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Simransota/Simransota/output/github-contribution-grid-snake.svg">
+</picture>
 
